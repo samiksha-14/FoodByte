@@ -1,0 +1,7 @@
+There is a standard way of writing js function that is known as js docs
+You can go to jsdoc.app
+To write js doc use multiline comment with two * like below
+/**
+*
+*
+*/
